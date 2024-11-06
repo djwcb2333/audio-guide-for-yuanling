@@ -86,9 +86,9 @@ const languageData = {
             },
             audio: {
                 tracks: {
-                    location1: "static/audio/group4/english/group4_track1.mp3",
-                    location2: "static/audio/group4/english/group4_track2.mp3",
-                    location3: "static/audio/group4/english/group4_track3.mp3",
+                    location1: "static/audio/group4/english/group4_track1_En.mp3",
+                    location2: "static/audio/group4/english/group4_track2_En.mp3",
+                    location3: "static/audio/group4/english/group4_track3_En.mp3",
                     location4: "static/audio/group4/english/group4_track4.mp3",
                     location5: "static/audio/group4/english/group4_track5.mp3",
                     location6: "static/audio/group4/english/group4_track6.mp3",
@@ -195,17 +195,17 @@ const languageData = {
         group4: {
             texts: {
                 title: "第四组",
-                textDisplay1: "组员1",
-                textDisplay2: "组员2",
-                textDisplay3: "组员3",
+                textDisplay1: "杨熙楠",
+                textDisplay2: "牛文可",
+                textDisplay3: "许可",
                 locationInfo: "Location information is unavailable.",
                 footerText: "© 声音研究科研组, SUSTech, 2024", 
             },
             audio: {
                 tracks: {
-                    location1: "static/audio/group4/chinese/group4_track1.mp3",
-                    location2: "static/audio/group4/chinese/group4_track2.mp3",
-                    location3: "static/audio/group4/chinese/group4_track3.mp3",
+                    location1: "static/audio/group4/chinese/group4_track1_Zh.mp3",
+                    location2: "static/audio/group4/chinese/group4_track2_Zh.mp3",
+                    location3: "static/audio/group4/chinese/group4_track3_Zh.mp3",
                     location4: "static/audio/group4/chinese/group4_track4.mp3",
                     location5: "static/audio/group4/chinese/group4_track5.mp3",
                     location6: "static/audio/group4/chinese/group4_track6.mp3",
