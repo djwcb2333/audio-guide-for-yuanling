@@ -89,9 +89,9 @@ const languageData = {
                     location1: "static/audio/group4/english/group4_track1_En.mp3",
                     location2: "static/audio/group4/english/group4_track2_En.mp3",
                     location3: "static/audio/group4/english/group4_track3_En.mp3",
-                    location4: "static/audio/group4/english/group4_track4.mp3",
-                    location5: "static/audio/group4/english/group4_track5.mp3",
-                    location6: "static/audio/group4/english/group4_track6.mp3",
+                    location4: "static/audio/group4/english/group4_track4_En.mp3",
+                    location5: "static/audio/group4/english/group4_track5_En.mp3",
+                    location6: "static/audio/group4/english/group4_track6_En.mp3",
                 }
             }
         },
@@ -106,12 +106,12 @@ const languageData = {
             },
             audio: {
                 tracks: {
-                    location1: "static/audio/group3/english/group3_track1.mp3",
-                    location2: "static/audio/group3/english/group3_track2.mp3",
-                    location3: "static/audio/group3/english/group3_track3.mp3",
-                    location4: "static/audio/group3/english/group3_track4.mp3",
-                    location5: "static/audio/group3/english/group3_track5.mp3",
-                    location6: "static/audio/group3/english/group3_track6.mp3",
+                    location1: "static/audio/group4/english/group4_track1_En.mp3",
+                    location2: "static/audio/group4/english/group4_track2_En.mp3",
+                    location3: "static/audio/group4/english/group4_track3_En.mp3",
+                    location4: "static/audio/group4/english/group4_track4_En.mp3",
+                    location5: "static/audio/group4/english/group4_track5_En.mp3",
+                    location6: "static/audio/group4/english/group4_track6_En.mp3",
                 }
             }
         },
@@ -206,9 +206,9 @@ const languageData = {
                     location1: "static/audio/group4/chinese/group4_track1_Zh.mp3",
                     location2: "static/audio/group4/chinese/group4_track2_Zh.mp3",
                     location3: "static/audio/group4/chinese/group4_track3_Zh.mp3",
-                    location4: "static/audio/group4/chinese/group4_track4.mp3",
-                    location5: "static/audio/group4/chinese/group4_track5.mp3",
-                    location6: "static/audio/group4/chinese/group4_track6.mp3",
+                    location4: "static/audio/group4/chinese/group4_track4_Zh.mp3",
+                    location5: "static/audio/group4/chinese/group4_track5_Zh.mp3",
+                    location6: "static/audio/group4/chinese/group4_track6_Zh.mp3",
                 }
             }
         },
@@ -223,12 +223,12 @@ const languageData = {
             },
             audio: {
                 tracks: {
-                    location1: "static/audio/group3/chinese/group3_track1.mp3",
-                    location2: "static/audio/group3/chinese/group3_track2.mp3",
-                    location3: "static/audio/group3/chinese/group3_track3.mp3",
-                    location4: "static/audio/group3/chinese/group3_track4.mp3",
-                    location5: "static/audio/group3/chinese/group3_track5.mp3",
-                    location6: "static/audio/group3/chinese/group3_track6.mp3",
+                    location1: "static/audio/group4/chinese/group4_track1_Zh.mp3",
+                    location2: "static/audio/group4/chinese/group4_track2_Zh.mp3",
+                    location3: "static/audio/group4/chinese/group4_track3_Zh.mp3",
+                    location4: "static/audio/group4/chinese/group4_track4_Zh.mp3",
+                    location5: "static/audio/group4/chinese/group4_track5_Zh.mp3",
+                    location6: "static/audio/group4/chinese/group4_track6_Zh.mp3",
                 }
             }
         },

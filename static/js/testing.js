@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     let bgFadeDuration = 2000; // Fade in/out duration in milliseconds
     let bgDynamicVolume = -3;  // Volume in dB when no other tracks are playing
-    let backgroundVolume = -12; // Initial background volume in dB
+    let backgroundVolume = -26; // Initial background volume in dB
 
     // Global variables
     let isPlaying = false;
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function startBackgroundTrack() {
         backgroundTrack = new Tone.Player({
-            url: 'static/audio/group1/group1_background1.mp3',
+            url: 'static/audio/group4/group4_background.mp3',
             loop: true,
             autostart: true,
             volume: bgDynamicVolume
